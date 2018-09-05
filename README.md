@@ -1,7 +1,6 @@
-# Chapter 3 Exercises
+# Chapter 4 Exercises
 
 This repository contains programming exercises for formatting documents in Markdown, 
-based on [Chapter 3](https://info201.github.io/markdown.html) 
-of the [Technical Foundations of Informatics](https://info201.github.io/) course book. 
+based on Chapter 4 of [_Programming Skills for Data Science_](https://programming-for-data-science.github.io/).
 
 Solutions can be found in the `solution` branch.
